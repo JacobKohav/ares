@@ -1,15 +1,15 @@
-# ARES Subnet  
-## Adversarial Robustness Evaluation System  
+# 🚀 ARES Subnet  
+## 🛡️ Adversarial Robustness Evaluation System  
 *A decentralized red-team marketplace for autonomous AI agents*
 
 ---
 
-# 1. Overview
+# 1. 🧭 Overview
 
 ARES is a Bittensor subnet that creates a competitive co-evolutionary market between:
 
-- **Miners** → Autonomous agents attempting to complete tasks robustly  
-- **Validators** → Adversarial environment generators attempting to expose agent vulnerabilities  
+- **⛏️ Miners** → Autonomous agents attempting to complete tasks robustly  
+- **🛡️ Validators** → Adversarial environment generators attempting to expose agent vulnerabilities  
 
 ARES transforms adversarial stress-testing into a continuous, incentive-aligned market.
 
@@ -19,9 +19,9 @@ The result:
 
 ---
 
-# 2. Incentive & Mechanism Design
+# 2. ⚖️ Incentive & Mechanism Design
 
-## 2.1 Emission & Reward Logic
+## 2.1 🪙 Emission & Reward Logic
 
 ARES uses Bittensor’s weight-setting mechanism to distribute emissions based on **robustness performance under adversarial stress**.
 
@@ -39,7 +39,7 @@ ARES uses Bittensor’s weight-setting mechanism to distribute emissions based o
 
 ---
 
-## 2.2 Core Incentive Alignment
+## 2.2 🎯 Core Incentive Alignment
 
 ### Miners Are Rewarded For:
 - Task completion accuracy
@@ -56,7 +56,7 @@ ARES uses Bittensor’s weight-setting mechanism to distribute emissions based o
 
 ---
 
-## 2.3 Mechanisms to Discourage Low-Quality or Adversarial Behavior
+## 2.3 🧹 Mechanisms to Discourage Low-Quality or Adversarial Behavior
 
 ### Anti-Spam Mechanisms
 
@@ -83,7 +83,7 @@ ARES uses Bittensor’s weight-setting mechanism to distribute emissions based o
 
 ---
 
-## 2.4 Proof of Intelligence / Proof of Effort
+## 2.4 🧠 Proof of Intelligence / Proof of Effort
 
 ARES qualifies as a **Proof of Intelligence** because:
 
@@ -103,7 +103,7 @@ ARES rewards:
 
 ---
 
-## 2.5 High-Level Algorithm
+## 2.5 🧩 High-Level Algorithm
 
 ### Task Lifecycle
 
@@ -136,9 +136,9 @@ For each evaluation round:
     Update emissions
 ```
 
-# 3. Miner Design
+# 3. ⛏️ Miner Design
 
-## 3.1 Miner Tasks
+## 3.1 🗂️ Miner Tasks
 
 Miners submit autonomous agents capable of operating under adversarial conditions.
 
@@ -179,7 +179,7 @@ ARES is environment-agnostic but initially focuses on structured sandbox domains
 
 ---
 
-## 3.2 Input → Output Format
+## 3.2 🔁 Input → Output Format
 
 ### Input Schema
 
@@ -222,7 +222,7 @@ The execution trace allows validators to evaluate:
 
 ---
 
-## 3.3 Performance Dimensions
+## 3.3 📊 Performance Dimensions
 
 ARES uses a multi-axis evaluation model.
 
@@ -259,9 +259,9 @@ Weights (α, β, γ, δ, ε) are configurable and may evolve via subnet governan
 
 ---
 
-# 4. Validator Design
+# 4. 🛡️ Validator Design
 
-## 4.1 Scoring & Evaluation Methodology
+## 4.1 🧪 Scoring & Evaluation Methodology
 
 Validators serve two roles:
 
@@ -317,7 +317,7 @@ Median aggregation reduces manipulation and validator collusion risk.
 
 ---
 
-## 4.2 Evaluation Cadence
+## 4.2 ⏱️ Evaluation Cadence
 
 ARES operates in rolling evaluation windows:
 
@@ -330,7 +330,7 @@ This design prevents overfitting to static benchmarks.
 
 ---
 
-## 4.3 Validator Incentive Alignment
+## 4.3 🤝 Validator Incentive Alignment
 
 Validators are rewarded according to:
 
@@ -367,9 +367,9 @@ Validators lose credibility weight for:
 
 ---
 
-# 5. Business Logic & Market Rationale
+# 5. 💼 Business Logic & Market Rationale
 
-## 5.1 The Problem
+## 5.1 ❗ The Problem
 
 Autonomous AI agents are entering:
 
@@ -396,7 +396,7 @@ ARES introduces continuous, decentralized adversarial evaluation.
 
 ---
 
-## 5.2 Competing Solutions
+## 5.2 🆚 Competing Solutions
 
 ### Outside Bittensor
 
@@ -430,7 +430,7 @@ ARES differentiates by:
 
 ---
 
-## 5.3 Why This Use Case Fits Bittensor
+## 5.3 🧬 Why This Use Case Fits Bittensor
 
 ARES requires:
 
@@ -450,7 +450,7 @@ No conventional blockchain offers this feedback-driven intelligence market.
 
 ---
 
-## 5.4 Path to Long-Term Adoption
+## 5.4 🛣️ Path to Long-Term Adoption
 
 Potential integrations:
 
@@ -471,9 +471,9 @@ ARES can become the default decentralized robustness benchmark for autonomous AI
 
 ---
 
-# 6. Go-To-Market Strategy
+# 6. 🚀 Go-To-Market Strategy
 
-## 6.1 Initial Target Users & Use Cases
+## 6.1 🎯 Initial Target Users & Use Cases
 
 ### Early Adopters
 
@@ -502,7 +502,7 @@ Future possibilities:
 
 ---
 
-## 6.2 Distribution & Growth Channels
+## 6.2 📣 Distribution & Growth Channels
 
 * Bittensor community
 * AI security research groups
@@ -513,7 +513,7 @@ Future possibilities:
 
 ---
 
-## 6.3 Incentives for Early Participation
+## 6.3 🎁 Incentives for Early Participation
 
 ### Miner Bootstrapping
 
@@ -536,7 +536,7 @@ Future possibilities:
 
 ---
 
-# 7. Architectural Overview
+# 7. 🏗️ Architectural Overview
 
 ```mermaid
 flowchart LR
@@ -551,7 +551,7 @@ flowchart LR
 
 ---
 
-# 8. Long-Term Vision
+# 8. 🔭 Long-Term Vision
 
 ARES evolves into:
 
@@ -566,7 +566,7 @@ As AI agents gain economic agency, ARES ensures:
 
 ---
 
-# 9. Conclusion
+# 9. ✅ Conclusion
 
 AI robustness cannot remain:
 
